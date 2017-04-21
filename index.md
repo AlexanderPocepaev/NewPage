@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages 22222222222222222222222222222222
+## Welcome to GitHub Pages 2
 
 You can use the [editor on GitHub](https://github.com/AlexanderPocepaev/NewPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
